@@ -2,6 +2,8 @@
 
 A powerful video editing MCP server that leverages FFmpeg to perform video editing operations through natural language commands.
 
+<a href="https://glama.ai/mcp/servers/ov0qov2xh1"><img width="380" height="200" src="https://glama.ai/mcp/servers/ov0qov2xh1/badge" alt="Video Editor Server MCP server" /></a>
+
 ## Components
 
 ### Tools
